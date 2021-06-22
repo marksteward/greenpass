@@ -3,7 +3,7 @@
 # Copyright 2021 Tobias Girstmair (https://gir.st). Consider this code GPLv3
 # licensed.
 
-# pip3 install flynn base45 PyPDF2 pyzbar
+# pip3 install flynn base45 PyPDF2 pyzbar Pillow
 # dnf install zbar || apt install libzbar0
 
 import sys
